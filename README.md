@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miftameme" alt="miftameme" /></a> </p>
 
-- 🔭 I’m currently working on [Custom-DCNN Model](https://www.kaggle.com/code/miftameme/custom-cnn-dhanno-memeog)
+- 🔭 I’m currently working on [Custom-DCNN Model](https://www.kaggle.com/models/miftameme/dhannomeme)
 
 - 🌱 I’m currently learning **Python, CNN, Machine Learning**
 
